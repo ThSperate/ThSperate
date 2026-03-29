@@ -39,7 +39,7 @@ Atuar na área de dados, aplicando análise e visualização para gerar insights
 ### 📈 Performance de Vendas
 👉 https://github.com/ThSperate/dashboard-performance-vendas
 
-📣 Análise de Marketing
+### 📣 Análise de Marketing
 👉 https://github.com/ThSperate/dashboard-marketing
 
 ---
