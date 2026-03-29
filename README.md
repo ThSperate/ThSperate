@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👨‍💻 Thiago Sperate
 
-<!--
-**ThSperate/ThSperate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados em transição de carreira, com foco em geração de insights através de dados, utilizando Power BI, SQL e Excel.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 📊 Foco em análise de dados e dashboards
+- 📈 Experiência com Power BI, DAX e Power Query
+- 🧠 Interesse em transformar dados em decisões estratégicas
+- 🇧🇷 Brasil
+
+---
+
+## 🛠️ Tecnologias
+
+- Power BI
+- SQL
+- Excel
+- Power Query
+- DAX
+
+---
+
+## 📌 Projetos em Destaque
+
+### 📊 Dashboard Comercial
+👉 https://github.com/ThSperate/dashboard-comercial-powerbi
+
+### 🌍 Análise de Vendas Globais
+👉 https://github.com/ThSperate/dashboard-analitico-vendas-globais
+
+### 📈 Performance de Vendas
+👉 https://github.com/ThSperate/dashboard-performance-vendas
+
+📣 Análise de Marketing
+👉 https://github.com/ThSperate/dashboard-marketing
+
+---
+
+## 📎 Contato
+
+- LinkedIn: https://www.linkedin.com/in/thiagosperate/
+- GitHub: https://github.com/ThSperate
