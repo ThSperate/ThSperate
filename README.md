@@ -4,6 +4,11 @@ Analista de Dados em transição de carreira, com foco em geração de insights 
 
 ---
 
+## 🎯 Objetivo
+Atuar na área de dados, aplicando análise e visualização para gerar insights estratégicos e apoiar tomada de decisão.
+
+---
+
 ## 🚀 Sobre mim
 
 - 📊 Foco em análise de dados e dashboards
